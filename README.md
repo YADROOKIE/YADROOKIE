@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @YADROOKIE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+👋 Hi, I’m @YADROOKIE
+👋👀👀👀👀👀👀👀👋
 
-- 📫 How to reach me wx:13586262557 qq:459647480
+📫📫📫📫📫📫📫📫📫📫📫  
+📫📫👋👋👋👋👋👋👋👋 📫  
+📫📫👀👀👀👀👀👀👀👀📫  
+📫📫📫📫📫📫📫📫📫📫📫  
 
 <!---
 YADROOKIE/YADROOKIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
